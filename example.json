@@ -1,0 +1,21 @@
+{
+  "profile": {
+    "name": "把想法变成小工具。",
+    "intro": "一份使用合成项目的独立作品集。每个项目的来源、能力和边界都可以清楚说明。"
+  },
+  "tools": [
+    {
+      "name": "本地笔记索引",
+      "description": "为手工提供的合成笔记建立可检索目录。",
+      "category": "知识",
+      "kind": "web",
+      "access": "public"
+    },
+    {
+      "name": "媒体编排实验",
+      "description": "对合成片段做剪切与时间线检查。",
+      "category": "媒体",
+      "kind": "cli"
+    }
+  ]
+}
